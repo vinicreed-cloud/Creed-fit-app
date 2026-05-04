@@ -132,4 +132,3 @@ with abas[4]:
     
     st.divider()
     st.write("Alimentos atuais:", st.session_state.banco_alimentos)
-    
